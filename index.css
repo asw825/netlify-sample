@@ -1,0 +1,11 @@
+header {
+    background-color: aqua;
+}
+main {
+    background-color: aliceblue;
+    height: 90vh;
+}
+footer{
+    background-color: aquamarine;
+    height: 10vh;
+}
